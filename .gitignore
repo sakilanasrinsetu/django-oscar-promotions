@@ -12,3 +12,5 @@
 # # *.egg-info
 
 .env/
+
+env/
