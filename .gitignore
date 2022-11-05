@@ -1,0 +1,12 @@
+*.pyc
+db.sqlite3
+
+media/
+
+# PyCharm files
+.idea/
+
+.pytest_cache/
+build/
+dist/
+*.egg-info
