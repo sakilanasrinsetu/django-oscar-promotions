@@ -4,11 +4,11 @@
 # # media/
 
 # # PyCharm files
-# # .idea/
+.idea/
 
 # # .pytest_cache/
 # # build/
 # # dist/
 # # *.egg-info
 
-# .env/
+.env/
